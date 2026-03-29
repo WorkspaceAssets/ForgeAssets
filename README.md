@@ -1,8 +1,6 @@
 # ForgeAssets
 A collection of open-source Roblox systems, scripts and assets. Designed to be simple, clean and easy to use.
 
-# ForgeAssets
-
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Roblox-blue)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
