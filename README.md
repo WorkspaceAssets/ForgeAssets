@@ -18,12 +18,13 @@ Open-source Roblox scripts, systems and assets.
 ---
 
 ## 🚀 Usage
-All scripts are free to use and modify.
+All scripts are free to use and modify.The repository is a type of open-source code so that people can create their own versions of our mod, providing the bases to create better ones.
 
 ---
 
 ## 💬 Community
-Join the Discord server for support and updates.
+Join the Discord server for support and updates. On the Discord server you'll find UI models, systems, etc...
+https://discord.gg/bwdza8u2zA
 
 ---
 
